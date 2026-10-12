@@ -1,4 +1,4 @@
-# Source Engineering -- Practice
+# Practice
 
 > Practitioner guidance for the Source Engineering discipline.
 
@@ -6,17 +6,17 @@ This repository holds the discipline's practitioner guidance. The practice is th
 
 ## What is in this repository
 
-- `handbook/` -- the practitioner's handbook. Eight chapters, each addressing a specific role.
-  - `01-reading-a-cots.md` -- how a reviewer reads a COTS in a high-stakes domain.
-  - `02-challenging-a-decision.md` -- how a reviewer challenges a decision using the COTS's feedback surfaces.
-  - `03-designing-a-decision-type.md` -- how a domain expert designs a new decision-type.
-  - `04-authoring-guardrails.md` -- how a domain expert authors guardrails for Layer 3.
-  - `05-implementing-layer-1.md` -- how an engineer implements Layer 1 in a new framework.
-  - `06-validating-a-cots.md` -- how an engineer validates a COTS using the conformance suite.
-  - `07-auditing-a-decision-record.md` -- how a regulator audits a decision record.
-  - `08-rolling-out-the-discipline.md` -- how an engineering lead rolls the discipline out across a team.
-- `first-90-days/` -- the adoption plan. A week-by-week guide for a team adopting the discipline.
-- `glossary.md` -- the practitioner-friendly glossary. Cross-references the foundations repo's `terminology.md`.
+- `handbook/` - the practitioner's handbook. Eight chapters, each addressing a specific role.
+  - `01-reading-a-cots.md` - how a reviewer reads a COTS in a high-stakes domain.
+  - `02-challenging-a-decision.md` - how a reviewer challenges a decision using the COTS's feedback surfaces.
+  - `03-designing-a-decision-type.md` - how a domain expert designs a new decision-type.
+  - `04-authoring-guardrails.md` - how a domain expert authors guardrails for Layer 3.
+  - `05-implementing-layer-1.md` - how an engineer implements Layer 1 in a new framework.
+  - `06-validating-a-cots.md` - how an engineer validates a COTS using the conformance suite.
+  - `07-auditing-a-decision-record.md` - how a regulator audits a decision record.
+  - `08-rolling-out-the-discipline.md` - how an engineering lead rolls the discipline out across a team.
+- `first-90-days/` - the adoption plan. A week-by-week guide for a team adopting the discipline.
+- `glossary.md` - the practitioner-friendly glossary. Cross-references the foundations repo's `terminology.md`.
 
 ## How to engage
 
