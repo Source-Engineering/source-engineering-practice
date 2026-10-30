@@ -22,3 +22,8 @@ All notable changes to the Source Engineering practice repo are recorded here.
 
 - The handbook is the discipline's adoption surface. The eight chapters are independent; the reader picks the chapters that match their role.
 - The first-90-days plan is the operational playbook; the strategic chapter is `handbook/08-rolling-out-the-discipline.md`.
+## [Unreleased]
+
+### Added
+
+- `handbook/09-reading-a-layer2-validation-record.md` - how a reviewer reads the Layer 2 Validation record: the four flags, `decision_on_validation`, the reviewer's checklist, and what the record does not tell you (RFC-0001)
