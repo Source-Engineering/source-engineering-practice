@@ -27,3 +27,7 @@ All notable changes to the Source Engineering practice repo are recorded here.
 ### Added
 
 - `handbook/09-reading-a-layer2-validation-record.md` - how a reviewer reads the Layer 2 Validation record: the four flags, `decision_on_validation`, the reviewer's checklist, and what the record does not tell you (RFC-0001)
+
+### Added (RFC-0002)
+
+- `handbook/10-recursive-evidence-chains.md` - how a reviewer reads a COTS whose evidence includes model-generated items: the two RFC-0002 fields, the reviewer's three questions, what to do under each chain-termination policy, and the tooling
