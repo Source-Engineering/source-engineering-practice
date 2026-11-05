@@ -31,3 +31,7 @@ All notable changes to the Source Engineering practice repo are recorded here.
 ### Added (RFC-0002)
 
 - `handbook/10-recursive-evidence-chains.md` - how a reviewer reads a COTS whose evidence includes model-generated items: the two RFC-0002 fields, the reviewer's three questions, what to do under each chain-termination policy, and the tooling
+
+### Added (RFC-0003)
+
+- `handbook/11-reading-a-guardrail-decision.md` - how a reviewer reads the domain's ruling: the four outcomes (accepted/rejected/annotated/escalated), the binding/advisory distinction, status consistency, rule authoring standards, and `se-trace check-guardrails` re-evaluation

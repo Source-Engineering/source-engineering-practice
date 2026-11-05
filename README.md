@@ -6,7 +6,7 @@ This repository holds the discipline's practitioner guidance. The practice is th
 
 ## What is in this repository
 
-- `handbook/` - the practitioner's handbook. Ten chapters, each addressing a specific role.
+- `handbook/` - the practitioner's handbook. Eleven chapters, each addressing a specific role.
   - `01-reading-a-cots.md` - how a reviewer reads a COTS in a high-stakes domain.
   - `02-challenging-a-decision.md` - how a reviewer challenges a decision using the COTS's feedback surfaces.
   - `03-designing-a-decision-type.md` - how a domain expert designs a new decision-type.
@@ -17,8 +17,7 @@ This repository holds the discipline's practitioner guidance. The practice is th
   - `08-rolling-out-the-discipline.md` - how an engineering lead rolls the discipline out across a team.
   - `09-reading-a-layer2-validation-record.md` - how a reviewer reads the Layer 2 Validation record (RFC-0001).
   - `10-recursive-evidence-chains.md` - how a reviewer reads a COTS whose evidence includes model-generated items (RFC-0002).
-  - `11-context-graph.md` - how a reviewer reads the Context Graph: the COTS's context and evidence as a typed-edge graph (RFC-0004).
-  - `12-auditing-from-the-trail.md` - how a reviewer replays a decision's lifecycle from its audit trail (RFC-0005, Layer 4).
+  - `11-reading-a-guardrail-decision.md` - how a reviewer reads the domain's ruling on a decision: outcomes, binding vs advisory, and re-evaluation (RFC-0003).
 - `first-90-days/` - the adoption plan. A week-by-week guide for a team adopting the discipline.
 - `glossary.md` - the practitioner-friendly glossary. Cross-references the foundations repo's `terminology.md`.
 
